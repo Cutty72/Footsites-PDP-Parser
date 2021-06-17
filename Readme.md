@@ -3,7 +3,7 @@
 Easily parse footsites PDP page.
 
 ### Example
-After pasting your headers, make sure to press "Ctrl + C", to confirm input.
+
 ```go
     package main
 
